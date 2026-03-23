@@ -40,8 +40,8 @@ The project is created for learning and practicing frontend development skills.
 
 📸 Output
 
-(Add screenshot here later)
-
+![Project Screenshot 1](Screenshot 2026-03-24 001521.png)
+![Project Screenshot 2](Screenshot 2026-03-24 001933.png)
 ---
 
 🎯 Learning Purpose
