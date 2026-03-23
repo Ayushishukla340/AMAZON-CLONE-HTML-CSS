@@ -37,11 +37,12 @@ The project is created for learning and practicing frontend development skills.
 2. Open "index.html" in your browser
 
 ---
+## 📸 Output
 
-📸 Output
+![Home Page](Screenshot%202026-03-24%20001521.png)
 
-![Project Screenshot 1](Screenshot 2026-03-24 001521.png)
-![Project Screenshot 2](Screenshot 2026-03-24 001933.png)
+![Product Section](Screenshot%202026-03-24%20001933.png)
+
 ---
 
 🎯 Learning Purpose
